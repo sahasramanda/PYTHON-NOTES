@@ -10,3 +10,4 @@ Python ignores all of it.
 """
 
 VARIABLES
+containers that hold data values. used to store, manipulate & display information. have a unique name & a value. python automatically detects variable type.
