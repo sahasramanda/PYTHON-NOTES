@@ -1,16 +1,14 @@
-INTRODUCTION
+INTRODUCTION:
 print("Hello World!")
 
 COMMENTS
-notes for humans - python ignores them
-can disable code temporarily without deleting it
-
+notes for humans - python ignores them.
+can disable code temporarily without deleting it.
 # This is a single-line comment
-
 """
 This is a
 multi-line comment
 """
 
-VARIABLES
+VARIABLES:
 containers that hold data values. used to store, manipulate & display information. have a unique name & a value. python automatically detects variable type.
