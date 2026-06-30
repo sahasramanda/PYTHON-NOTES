@@ -8,3 +8,5 @@ COMMENTS
 This is a multi-line comment.
 Python ignores all of it.
 """
+
+VARIABLES
