@@ -2,11 +2,14 @@ INTRODUCTION
 print("Hello World!")
 
 COMMENTS
-# This is a comment
+notes for humans - python ignores them
+can disable code temporarily without deleting it
+
+# This is a single-line comment
 
 """
-This is a multi-line comment.
-Python ignores all of it.
+This is a
+multi-line comment
 """
 
 VARIABLES
