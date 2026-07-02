@@ -12,3 +12,8 @@ multi-line comment
 
 VARIABLES:
 containers that hold data values. used to store, manipulate & display information. have a unique name & a value. python automatically detects variable type.
+NUMBERS
+int an integer 1 or -2
+a = 3
+float real number 1.32 or 0.98
+b = 13.2
