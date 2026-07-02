@@ -18,6 +18,6 @@ a = 3
 float (real number 1.32 or 0.98)
 b = 13.2
 STRING
-a char is a single character (1, 6, %, b, p, ., T, etc.)
+a char is a single character (1, 6, %, b, p, ., T)
 the str (string) type is a special type that consists of multiple chars.
 s1 = "This is a string"
