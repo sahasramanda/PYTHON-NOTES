@@ -13,7 +13,11 @@ multi-line comment
 VARIABLES:
 containers that hold data values. used to store, manipulate & display information. have a unique name & a value. python automatically detects variable type.
 NUMBERS
-int an integer 1 or -2
+int (an integer 1 or -2)
 a = 3
-float real number 1.32 or 0.98
+float (real number 1.32 or 0.98)
 b = 13.2
+STRING
+a char is a single character (1, 6, %, b, p, ., T, etc.)
+the str (string) type is a special type that consists of multiple chars.
+s1 = "This is a string"
