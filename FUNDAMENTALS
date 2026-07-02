@@ -22,6 +22,7 @@ BOOLEAN
 True or False.
 EMPTY VARIABLES
 None
+empty_box = None
 no value or nothing
 score = None  # Score hasn't been calculated yet
 name = None   # Name hasn't been entered yet
