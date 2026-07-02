@@ -26,3 +26,10 @@ empty_box = None
 no value or nothing
 score = None  # Score hasn't been calculated yet
 name = None   # Name hasn't been entered yet
+NAMING CONVENTIONS
+snake_case
+when writing a variable name be descriptive & use meaningful words.
+# Good Naming
+age = 10
+greeting = "Hello"
+is_active = True
