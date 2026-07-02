@@ -66,3 +66,9 @@ a = 5
 a += 3   # a holds 8
 the += operator adds the value 3 to a.
 COMPARISON OPERATORS
+==         Equal                   1 == 2 returns False
+!=        Not Equal                1 != 2 returns True
+>        Greater Than              1 > 2 returns False
+<          Less Than               1 < 2 returns True
+>=     Greater Than or Equal       1 >= 2 returns False
+<=	    Less Than or Equal         1 <= 2 returns True
