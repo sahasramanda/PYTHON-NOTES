@@ -1,6 +1,5 @@
 INTRODUCTION:
 print("Hello World!")
-
 COMMENTS
 notes for humans - python ignores them.
 can disable code temporarily without deleting it.
@@ -21,3 +20,8 @@ the str (string) type is a special type that consists of multiple chars.
 s1 = "This is a string"
 BOOLEAN
 True or False.
+EMPTY VARIABLES
+None
+no value or nothing
+score = None  # Score hasn't been calculated yet
+name = None   # Name hasn't been entered yet
