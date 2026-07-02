@@ -40,3 +40,14 @@ ARITHMETIC OPERATORS
 -
 *
 /
+MODULO OPERATOR %
+what's left over after dividing one number by another.
+result = dividend % divisor
+result = 10 % 3
+10 is divided by 3. 3 goes into 10 three times with a remainder of 1. so result will be 1.
+usually modulo is used for checking if a number is even or odd.
+if a number is even, dividing it by 2 will leave a remainder of 0.
+if a number is odd, dividing it by 2 will leave a remainder of 1.
+when the dividend is smaller than the divisor, the result is simply the dividend itself.
+5 % 8 = 5
+why? since 8 cannot fit into 5 even once, the entire 5 remains as the remainder.
