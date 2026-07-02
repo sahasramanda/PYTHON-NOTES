@@ -21,3 +21,4 @@ STRING
 a char is a single character (1, 6, %, b, p, ., T)
 the str (string) type is a special type that consists of multiple chars.
 s1 = "This is a string"
+BOOLEAN
