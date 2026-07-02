@@ -34,4 +34,9 @@ age = 10
 greeting = "Hello"
 is_active = True
 
-OPERATORS PART 1
+OPERATORS PART 1:
+ARITHMETIC OPERATORS
++
+-
+*
+/
