@@ -11,22 +11,22 @@ multi-line comment
 
 VARIABLES:
 containers that hold data values. used to store, manipulate & display information. have a unique name & a value. python automatically detects variable type.
-NUMBERS
+1. NUMBERS
 int (an integer 1 or -2); a = 3
 float (real number 1.32 or 0.98); b = 13.2
-STRING
+2. STRING
 a char is a single character (1, 6, %, b, p, ., T)
 the str (string) type is a special type that consists of multiple chars.
 s1 = "This is a string"
-BOOLEAN
+3. BOOLEAN
 True or False.
-EMPTY VARIABLES
+4. EMPTY VARIABLES
 None
 empty_box = None
 no value or nothing
 score = None  # Score hasn't been calculated yet
 name = None   # Name hasn't been entered yet
-NAMING CONVENTIONS
+5. NAMING CONVENTIONS
 snake_case words separated by underscores
 be descriptive & use meaningful words
 # Good examples
@@ -35,12 +35,12 @@ greeting = "Hello"
 is_active = True
 
 OPERATORS PART 1:
-ARITHMETIC OPERATORS
+1. ARITHMETIC OPERATORS
 +
 -
 *
 /
-MODULO OPERATOR %
+2. MODULO OPERATOR %
 it returns the remainder of a division.
 (whatever is left over after dividing)
 result = dividend % divisor
@@ -52,7 +52,7 @@ even number
 number % 2 == 0
 odd number
 number % 2 == 1
-ARITHMETIC SHORTCUTS
+3. ARITHMETIC SHORTCUTS
 +=
 -=
 *=
@@ -66,7 +66,7 @@ we can simplify it by writing +=:
 a = 5
 a += 3   # a holds 8
 the += operator adds the value 3 to a.
-COMPARISON OPERATORS
+4. COMPARISON OPERATORS
 ==         Equal                   1 == 2 returns False
 !=        Not Equal                1 != 2 returns True
 >        Greater Than              1 > 2 returns False
@@ -75,5 +75,6 @@ COMPARISON OPERATORS
 <=	    Less Than or Equal         1 <= 2 returns True
 
 OPERATORS PART 2:
-LOGICAL OPERATORS PART 1
 logical operators are used to combine conditional statements.
+LOGICAL OPERATORS PART 1
+1. and
