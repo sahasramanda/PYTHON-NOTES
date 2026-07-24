@@ -77,4 +77,9 @@ the += operator adds the value 3 to a.
 OPERATORS PART 2:
 logical operators are used to combine conditional statements.
 LOGICAL OPERATORS PART 1
-1. the and operator returns True only when both the operands are true. any other combination returns False.
+the and operator returns True only when both a and b are True. any other combination returns False.
+LOGICAL OPERATORS PART 2
+the or operator returns True only when either a or b is True.
+the not operator:
+here the value of a is reversed.
+if a is False then not a is True.
